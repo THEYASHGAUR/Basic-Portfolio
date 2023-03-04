@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: #ccc;
+    font-size: 18px;
+    height: 50px;
+    text-align: center;
+    justify-content: center;
+    padding-top: 10px;
+    
+}
+.home{
+    text-decoration: none;
+    color: black;
+    margin: 15px;
+}
+.about{
+    text-decoration: none;
+    color: black;
+    margin: 15px;
+}
+.contact{
+    text-decoration: none;
+    color: black;
+    margin: 15px;
+}
+.servies{
+    text-decoration: none;
+    color: black;
+    margin: 15px;
+}
